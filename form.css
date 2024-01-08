@@ -1,0 +1,35 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+body{
+    background-image: url(img/5.jfif);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+
+
+}
+form{
+    margin: 100px auto;
+    width: 400px;
+    height: 460px;
+    line-height: 60px;
+    font-size: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgba(0, 0, 0, 0.24);
+    border: 1px solid rgba(190, 175, 175, 0.932);
+    color: rgb(243, 243, 243);
+    position: absolute;
+    top: -2%;left: 35%;
+    border-radius: 10px;
+   
+}
+form>button{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+}
+form>button>:hover{
+   width: 350px;
+   background-color: rgb(151, 25, 25);
+}
