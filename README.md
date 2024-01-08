@@ -8,7 +8,7 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by nasim pirghollo
+- 👩‍💻 Developed by nasim pirghollo
 
 - Created - 2024/08/01
 
