@@ -18,4 +18,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/nasim_pirghollo-web) and [linkedin](https://www.linkedin.com/in/nasim-pirghollo-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/nasim_pirghollo-web) and [linkedin](https://www.linkedin.com/in/nasim-pirghollo-a783952a9/)
